@@ -1,0 +1,36 @@
+a b g f
+b a h c
+g a m h l
+h b g n i
+c b i d
+i c h o j
+d c j e
+j d i p k
+e d k f
+k e j q l
+f e l a
+l f k r g
+m g s n r
+n h m t o
+o i n u p
+p j o v q
+q k p w r
+r l q x m
+s m y t x
+t n s z u
+u o t 1 v
+v p u 2 w
+w q v 3 x
+x r w 4 s
+y s 5 z 4
+z t y 6 1
+1 u z 7 2
+2 v 1 8 3
+3 w 2 9 4
+4 x 3 0 y
+5 y 6 0
+6 z 5 7
+7 1 6 8 
+8 2 7 9
+9 3 8 0
+0 4 9 5
